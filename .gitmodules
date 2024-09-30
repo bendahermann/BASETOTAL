@@ -1,0 +1,3 @@
+[submodule "DBConector"]
+	path = DBConector
+	url = https://github.com/bendahermann/DBConector.git
